@@ -23,4 +23,17 @@ b. Configure uvision 5
 
 c. Debug offline
 
-# II. 
+# II. Programs
+Source code includes parts:
+
+ADC/DAC
+
+PWM
+
+Motor
+
+Sound
+
+
+Enjoy your coding!
+
