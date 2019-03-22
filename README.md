@@ -32,7 +32,7 @@ PWM
 
 Motor
 
-Sound
+Microphone
 
 
 Enjoy your coding!
